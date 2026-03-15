@@ -1,36 +1,37 @@
-# MOTIRATECH 🇨🇦
+# MOTIRATECH 🇨🇦 | Industrial Power Solutions
 
-### North American Technology Solutions & Services
-**Federal Incorporated in Canada | Operations in BC & Ontario**
-
----
-
-## 🏢 About Us
-MOTIRATECH is a premier technology service provider strategically headquartered in Canada. As a **Federal Incorporated** entity, we operate with the highest standards of compliance and excellence, serving a diverse clientele across **British Columbia**, **Ontario**, and the broader **North American** market.
-
-We bridge the gap between complex technical challenges and scalable business solutions, leveraging our bi-coastal presence to provide seamless support across multiple time zones.
-
-## 🚀 Our Strategic Presence
-* **Western Canada (BC):** Innovation hub and gateway to Asia-Pacific tech ecosystems.
-* **Eastern Canada (ON):** Financial & tech core, driving North American business integration.
-* **North America-wide:** Dedicated to delivering high-performance, localized, and compliant technology services.
-
-## 🛠 What We Do
-We specialize in delivering robust, secure, and future-ready solutions tailored for the North American enterprise landscape:
-* **Digital Transformation:** Modernizing legacy systems for the cloud era.
-* **Custom Software Development:** High-performance applications built for scale.
-* **IT Consulting:** Strategic advisory with a focus on Canadian & US regulatory compliance.
-
-## 🔒 Brand Protection & Compliance
-This is the **Official GitHub Organization** of MOTIRATECH. All our repositories and code artifacts are governed by our corporate security policies and intellectual property frameworks.
+### Leading Provider of High-Performance Industrial Powertrain & Energy Storage Systems
+**Federal Incorporated in Canada | Strategic Bases in BC & Ontario**
 
 ---
 
-## 📬 Contact Us
-Looking to collaborate or inquire about our services?
-* **Website:** [www.motiratech.ca](https://www.motiratech.ca) *(请根据实际域名修改)*
-* **Location:** Vancouver, BC | Toronto, ON | Canada
-* **LinkedIn:** [Follow MOTIRATECH](https://linkedin.com/company/motiratech) *(建议同步注册)*
+## 🏗 About Us
+MOTIRATECH is a Canadian technology leader specializing in cutting-edge **Industrial Power Design Solutions**. We empower North American industries with high-efficiency transmission technologies and sustainable energy storage systems. 
+
+As a **Federal Incorporated** entity, we operate with a bi-coastal presence (Vancouver, BC & Toronto, ON), ensuring seamless technical support and compliance across multiple time zones.
+
+## ⚡ Our Core Business
+We provide end-to-end industrial solutions tailored for mining, manufacturing, and energy sectors:
+
+* **Permanent Magnet Direct Drive (PMDD) Motors:** Eliminating mechanical loss and enhancing reliability with high-torque direct drive technology.
+* **Industrial Gear Reducers:** Robust, precision-engineered traditional gearboxes for heavy-duty applications.
+* **Industrial Energy Storage Systems (IESS):** Scalable and smart energy solutions to optimize power consumption and grid stability.
+* **Integrated Powertrain Design:** Custom-engineered drive systems for optimal mechanical performance.
+
+## 🌐 Strategic Operations
+* **Western Canada (BC):** Focus on mining, forestry, and sustainable energy innovation.
+* **Eastern Canada (ON):** Powering the manufacturing heartland and financial infrastructure.
+* **North America-wide:** Committed to delivering compliant, high-efficiency industrial technology.
+
+## 🔒 Official Presence
+This is the **Official GitHub Organization** of MOTIRATECH. Here, we host our proprietary control algorithms, digital twin models, and industrial IoT (IIoT) integration tools.
 
 ---
-*© 2026 MOTIRATECH. All rights reserved.*# .github
+
+## 📬 Connect With Us
+* **Official Website:** [www.moitratech.com](http://www.moitratech.com)
+* **Headquarters:** Vancouver, BC | Toronto, ON | Canada
+* **Focus:** Industrial Powertrain | PMDD | Energy Storage
+
+---
+*© 2026 MOTIRATECH. Precision. Power. Performance.*
