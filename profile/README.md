@@ -1,4 +1,4 @@
-![MOTIRATECH Industrial Power](banner.jpg)## Hi there 👋
+## Hi there 👋
 
 <!--
 
