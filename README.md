@@ -1,4 +1,6 @@
-# MOTIRATECH 🇨🇦 | Industrial Power Solutions
+![MOTIRATECH Industrial Power](https://raw.githubusercontent.com/MOTIRATECH/.github/main/banner.jpg)
+
+# MOTIRATECH 🇨🇦 | Industrial Power Solutions# MOTIRATECH 🇨🇦 | Industrial Power Solutions
 
 ### Leading Provider of High-Performance Industrial Powertrain & Energy Storage Systems
 **Federal Incorporated in Canada | Strategic Bases in BC & Ontario**
