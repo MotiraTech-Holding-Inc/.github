@@ -1,24 +1,18 @@
-# MOTIRATECH 🇨🇦 | Industrial Power Solutions
+# MotiraTech™ Industrial Solutions
 
-![MOTIRATECH Industrial Power](https://raw.githubusercontent.com/MOTIRATECH/.github/main/banner.jpg)
+Welcome to the official digital repository for **MotiraTech Holding Inc.** We specialize in high-efficiency **Permanent Magnet Direct Drive (PMDD)** motors and **Battery Energy Storage Systems (BESS)** designed for the world's most demanding mining and industrial environments.
 
-### Leading Provider of High-Performance Industrial Powertrain & Energy Storage Systems
-**Federal Incorporated in Canada | Strategic Bases in BC & Ontario**
+## 🚀 Core Technologies
+- **PMDD (Permanent Magnet Direct Drive):** Next-gen motor technology that eliminates gearboxes, reducing energy loss by 15% and maintenance by 40%.
+- **BESS (Battery Energy Storage):** Custom-engineered storage solutions for microgrid stability and renewable energy integration.
 
----
+## 🛡️ Compliance & Safety
+Our engineering standards and operational protocols are aligned with global Tier-1 requirements, including:
+- **Hatch Global Vendor Standards**
+- **CSA & WorkSafeBC Compliance**
+- **Zero Harm Health & Safety Frameworks**
 
-## 🏗 About Us
-MOTIRATECH is a Canadian technology leader specializing in cutting-edge **Industrial Power Design Solutions**. We empower North American industries with high-efficiency transmission technologies and sustainable energy storage systems. 
-
-## ⚡ Our Core Business
-In partnership with **SIEBENHAAR Antriebstechnik** (Germany), we provide end-to-end industrial solutions:
-* **Permanent Magnet Direct Drive (PMDD) Motors**
-* **Precision Gear Reducers (Slewing, Winch, Wheel Drives)**
-* **Industrial Energy Storage Systems (IESS)**
-
-## 🎖 Quality & Trust
-* **DNV-GL ISO 9001 Certified** Quality Systems.
-* **German Engineering Heritage:** Over 50 years of expertise.
-
----
-🌐 [www.motiratech.com](http://www.motiratech.com) | 📍 Richmond, BC | Toronto, ON
+## 🌐 Contact
+- **Entity:** MotiraTech Holding Inc.
+- **Location:** Richmond / Surrey, BC, Canada
+- **Lead:** Brooks Yee (Director)
