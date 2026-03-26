@@ -1,18 +1,43 @@
-# MotiraTech™ Industrial Solutions
+# ⚙️ MotiraTech™ Industrial Solutions Framework
 
-Welcome to the official digital repository for **MotiraTech Holding Inc.** We specialize in high-efficiency **Permanent Magnet Direct Drive (PMDD)** motors and **Battery Energy Storage Systems (BESS)** designed for the world's most demanding mining and industrial environments.
+Welcome to the official digital engineering repository for **MotiraTech Holding Inc.** This environment serves as a centralized hub for technical specifications, product catalogs, and digital twin architectures for our Tier-1 industrial partners.
 
-## 🚀 Core Technologies
-- **PMDD (Permanent Magnet Direct Drive):** Next-gen motor technology that eliminates gearboxes, reducing energy loss by 15% and maintenance by 40%.
-- **BESS (Battery Energy Storage):** Custom-engineered storage solutions for microgrid stability and renewable energy integration.
+---
 
-## 🛡️ Compliance & Safety
-Our engineering standards and operational protocols are aligned with global Tier-1 requirements, including:
-- **Hatch Global Vendor Standards**
-- **CSA & WorkSafeBC Compliance**
-- **Zero Harm Health & Safety Frameworks**
+## 📂 Project Portfolio
 
-## 🌐 Contact
-- **Entity:** MotiraTech Holding Inc.
-- **Location:** Richmond / Surrey, BC, Canada
-- **Lead:** Brooks Yee (Director)
+### 1. Planetary Gear Solutions (Partner: SIEBENHAAR)
+High-performance drive components for heavy-duty machinery.
+* **Slewing Gears:** Torque capacity up to 392,000 Nm.
+* **Winch Gears:** Supporting line pulls exceeding 750 kN.
+* **Wheel Drives:** Versatile solutions for mobile industrial equipment.
+* [📄 Download Catalog](./Presentation_7Haar+GTM+GTD.pdf)
+
+### 2. PMDD Motor Series (Permanent Magnet Direct Drive)
+The future of energy-efficient mining and industrial drives.
+* **Efficiency:** Gearless design reducing transmission losses by **15%**.
+* **Reliability:** Eliminated gearbox failure points, reducing OPEX by **40%**.
+* **Applications:** Conveyors, Mills, Crushers, and Fans.
+
+### 3. IESS Energy Storage (Integrated Energy Storage Solutions)
+Grid-scale BESS architecture for renewable integration and microgrid stability.
+* **Design:** Modular containerized units with integrated BMS.
+* **Safety:** Multi-level fire suppression and real-time thermal monitoring.
+
+---
+
+## 🛡️ Digital Governance & Compliance
+As a registered vendor for **Hatch (Supplier Code: SUP_100049)**, we maintain strict adherence to:
+* **Data Integrity:** All engineering documentation is version-controlled via GitHub.
+* **Operational Resilience:** Our Business Continuity Plan (BCP) ensures technical support is available 24/7 via cloud redundancy.
+* **Sustainability:** Core focus on reducing Scope 2 emissions for our global clients.
+
+---
+
+## ✉️ Contact & Collaboration
+**MotiraTech Holding Inc.** 📍 Richmond / Surrey, BC, Canada  
+👤 **Brooks Yee** | Director  
+📧 [Insert Your Email Here]
+
+---
+*Confidentiality Note: Some technical drawings in this repository are restricted. Access to full BIM/CAD models requires a signed NDA.*
